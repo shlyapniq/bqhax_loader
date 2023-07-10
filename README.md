@@ -6,10 +6,10 @@
 
 ## Features
 
-- Fast lua script execution
-- Lua to exe compilator
-- Debug mode
-- Static exe mode
+- Fast lua script execution 🐎
+- Lua to exe compilator 💾
+- Debug mode 🐱‍💻
+- Static exe mode 📱
 
 
 ## FAQ
