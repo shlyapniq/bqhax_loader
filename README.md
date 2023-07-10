@@ -1,5 +1,5 @@
 
-# Bqhax loader
+# Bqhax loader 💿
 
 *Lua scripting utility that has a built in interpretator and compiler*
 
